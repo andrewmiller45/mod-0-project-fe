@@ -21,11 +21,14 @@ console.log("Alan Turing");
 console.log('Welcome to Turing!');
 
 // YOU DO: Write code below to log `99 bottles of pop on the wall...`:
-
+> console.log('99 bottles of pop on the wall')
+99 bottles of pop on the wall
+undefined
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
-
-
+> console.log("Don't know how to react so I won't")
+Don't know how to react so I won't
+undefined
 
 //-------------------
 //NUMBERS
@@ -38,13 +41,19 @@ console.log(2 + 2);
 console.log(83 - 7);
 
 // YOU DO: log the result of 6 multiplied by 53 to the console:
-
+console.log(53*6)
+318
+undefined
 
 // YOU DO: log the result of 20 divided by 4 to console:
-
+console.log(20/4)
+5
+undefined
 
 // YOU DO: log the result of the modulo of 10 into 54:
-
+console.log(10/54)
+0.18518518518518517
+undefined
 
 
 //-------------------
@@ -58,12 +67,19 @@ console.log(1 === 2);
 console.log(7 > 2);
 
 // YOU DO: log to the console the result of "hello" is equal to "Hello":
+console.log("hello" == "Hello")
+false
+undefined
 
 // YOU DO: log to the console the result of 3 is not equal to 4:
+console.log(3!=4)
+true
+undefined
 
 // YOU DO: log to the console the result of 4 is less than or equal to 5:
-
-
+console.log(4>=5)
+false
+undefined
 
 //-------------------
 // FINAL CHECK
@@ -71,3 +87,5 @@ console.log(7 > 2);
 
 // Did you run this file in your terminal to make sure everything printed out to the console 
 // as you would expect? 
+
+//Yes, for the most part.  I was burned a few times by bad syntax, and had to look up some of the error messages.
